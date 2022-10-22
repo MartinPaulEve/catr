@@ -6,7 +6,7 @@ use std::io::{self, BufRead, BufReader};
 
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
-/// A structure that represents the command-line arguments for catr
+/// A simple cat application
 pub struct Config {
     /// The files to concatenate
     #[arg(default_value = "-")]
