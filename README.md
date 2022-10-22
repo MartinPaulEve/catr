@@ -1,4 +1,4 @@
-# echor
+# catr
 
 ![license](https://img.shields.io/github/license/martinpauleve/catr) ![activity](https://img.shields.io/github/last-commit/MartinPaulEve/catr) 
 
